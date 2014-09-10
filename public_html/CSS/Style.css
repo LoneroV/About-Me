@@ -1,7 +1,9 @@
 body {
-    background-color: crimson;
+    font-size: 25px;
+    background-color: maroon;
+    text-align: center;
+    color: goldenrod;
 }
 hl{
-    text-align: center
-    
-}
+font-size: medium;    
+} 
